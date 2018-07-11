@@ -584,6 +584,11 @@ p.sub_cap {
     object-fit: cover;
     object-position: top;
 }
+.about-image {
+    height: 500px;
+    object-fit: cover;
+    object-position: top;
+}
 /*-- //team --*/
 /* /contact */
 .contact{
